@@ -17,6 +17,9 @@
     "javacript",
     "language exteaspection"
   ],
+  "exports": {
+    "./": "./dist/uncompressed/skylark-langx-aspect/"
+  },
   "author": "Hudaokeji Co.,Ltd",
   "liceaspecte": "MIT",
   "bugs": "https://github.com/skylarklangx/skylark-langx/issues",
