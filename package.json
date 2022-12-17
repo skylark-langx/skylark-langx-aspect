@@ -18,7 +18,8 @@
     "language exteaspection"
   ],
   "exports": {
-    "./": "./dist/uncompressed/skylark-langx-aspect/"
+    ".": "./dist/uncompressed/skylark-langx-aspect/main.js",
+    "./*": "./dist/uncompressed/skylark-langx-aspect/*.js"
   },
   "author": "Hudaokeji Co.,Ltd",
   "liceaspecte": "MIT",
